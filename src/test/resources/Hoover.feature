@@ -107,87 +107,9 @@ Feature: Hoover tests
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Should we be able to navigate the Hoover if it is originally outside the walls?
 # Are hoover coords required in Json request payload?
 #  test with negative room size - returns coordinates [0,0] and some patches are still cleaned  - bug?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
